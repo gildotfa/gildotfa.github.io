@@ -6,9 +6,7 @@ CAMP-115
 Tel:+1-315-268-6538
 torresg at clarkson dot edu
 
-[CV](https://people.clarkson.edu/~torresg/vitae/Gildo_Torres_CV.pdf)  \\
-[Linkedin](https://www.linkedin.com/in/floating-point)  \\
-[ORCID](http://orcid.org/0000-0001-5758-4842)
+[CV](https://people.clarkson.edu/~torresg/vitae/Gildo_Torres_CV.pdf)   [Linkedin](https://www.linkedin.com/in/floating-point)  [ORCID](http://orcid.org/0000-0001-5758-4842)
 
 Department of Electrical and Computer Engineering
 Wallace H. Coulter School of Engineering
