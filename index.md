@@ -1,16 +1,16 @@
 # My first page hosted on github pages
 
 ## Contact:
-Computer Architecture and Microprocessor Engineering Lab [CAMEL](http://camel.clarkson.edu)  
+Computer Architecture and Microprocessor Engineering Lab [CAMEL](http://camel.clarkson.edu){:target="_blank"}  
 CAMP-115  
 Tel:+1-315-268-6538  
 torresg at clarkson dot edu  
 
-[CV](https://people.clarkson.edu/~torresg/vitae/Gildo_Torres_CV.pdf)   [Linkedin](https://www.linkedin.com/in/floating-point)  [ORCID](http://orcid.org/0000-0001-5758-4842)
+[CV](https://people.clarkson.edu/~torresg/vitae/Gildo_Torres_CV.pdf)   [Linkedin](https://www.linkedin.com/in/floating-point){:target="_blank"}  [ORCID](http://orcid.org/0000-0001-5758-4842){:target="_blank"}
 
 Department of Electrical and Computer Engineering  
 Wallace H. Coulter School of Engineering  
-[Clarkson University](https://www.clarkson.edu)  
+[Clarkson University](https://www.clarkson.edu){:target="_blank"}  
 8 Clarkson Avenue  
 Potsdam, NY 13699-5720  
 
