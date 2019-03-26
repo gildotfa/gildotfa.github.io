@@ -1,3 +1,23 @@
+<script>
+    function clickCounter() {
+        if (typeof (Storage) !== "undefined") {
+            if (localStorage.clickcount) {
+                localStorage.clickcount = Number(localStorage.clickcount) + 1;
+            } else {
+                localStorage.clickcount = 1;
+            }
+            document.getElementById("result").innerHTML = localStorage.clickcount;
+        } else {
+            document.getElementById("result").innerHTML = "Sorry, your browser does not support web storage...";
+        }
+window.location = 'http://www.google.com';
+    }
+</script>
+
+<button onclick="clickCounter();"><span style="font-size:35px;" font face="Face"> Please Click Here to Access QLM </span>
+</button>
+
+
 # My first page hosted on github pages
 
 ## Contact:
